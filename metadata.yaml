@@ -1,0 +1,29 @@
+_repo: A-Bill-of-Divorcement-A-Play-in-Three-Acts_62703
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dane, Clemence
+    alias: Ashton, Winifred
+    birthdate: 1888
+    deathdate: 1965
+    gutenberg_agent_id: '40513'
+    url: http://www.gutenberg.org/2009/agents/40513
+    wikipedia: https://en.wikipedia.org/wiki/Clemence_Dane
+description: ''
+gutenberg_issued: '2020-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62703'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Drama'
+- !lcsh 'Mental illness -- Drama'
+- !lcsh 'England -- Social life and customs -- 20th century -- Drama'
+- !lcc 'PR'
+- !lcsh 'Families -- Drama'
+- GITenberg
+title: 'A Bill of Divorcement: A Play in Three Acts'
+url: http://www.gutenberg.org/ebooks/62703
